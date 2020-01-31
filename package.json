@@ -1,0 +1,22 @@
+{
+  "name": "salary_sracpper",
+  "version": "1.0.0",
+  "description": "Web scarpper from glassdoor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harsha-iiiv/salary_sracpper.git"
+  },
+  "author": "Harsha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harsha-iiiv/salary_sracpper/issues"
+  },
+  "homepage": "https://github.com/harsha-iiiv/salary_sracpper#readme",
+  "dependencies": {
+    "crawler": "^1.2.1"
+  }
+}
