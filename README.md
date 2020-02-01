@@ -1,4 +1,4 @@
-# salary_sracpper
+# salary_scrapper
 
 ## Usage
 * Go to project folder and enter the ``` npm i ``` in cmd
